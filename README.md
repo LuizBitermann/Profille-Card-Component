@@ -1,6 +1,7 @@
 # Profille-Card-Component
 
 Este é um simples documento HTML que exibe um componente de cartão de perfil. Ele inclui alguns metadados e uma folha de estilo.
+
 Esse projeto é um componente simples de um cartão de perfil desenvolvido em HTML e CSS. O cartão de perfil inclui uma imagem de fundo em forma de círculo, uma imagem de perfil e algumas informações básicas, como nome, idade, localização e estatísticas de seguidores, curtidas e fotos.
 
 ## Uso
